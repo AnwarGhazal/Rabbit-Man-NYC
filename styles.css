@@ -1,0 +1,5 @@
+body{background-color:#FCCECE;}
+h1{color: rgb(7, 103, 18); font-family: Garamond; font-size: 40px;}
+p{color: rgb(29, 2, 76); font-family: Helvetica; font-size: 18px;}
+a{color: rgb(59, 4, 156); font-family: Helvetica; font-size: 18px; text-decoration: none;}
+a:hover{color: green;}
